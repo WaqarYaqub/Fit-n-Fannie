@@ -1,0 +1,15 @@
+export const START = 'Start';
+export const SIGN_UP_SCREEN = 'SignUp';
+export const SIGN_IN = 'SignIn';
+export const HOME_SCREEN = 'Home';
+export const HEALTH_APPROVAL = 'HealthDisclaimerApproval';
+export const HEALTH_DISCLAIMER = 'HealthDiscalimer';
+export const APP_HOME = 'HOME';
+export const WEIGHT_SCREEN = 'Weight';
+export const HEIGHT_SCREEN = 'Height';
+export const AGE_SCREEN = 'Age';
+export const GENDER_SCREEN = 'Gender';
+export const FITNESS_QUIZ_SCREEN = 'Fitness Quiz';
+export const GOAL_SCREEN = 'Goals';
+export const MEMEBERSHIP_SCREEN = 'MemberShip';
+export const PROFILE_SCREEN = 'Profile';
